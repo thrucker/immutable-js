@@ -1,0 +1,7 @@
+{
+    "name": "immutable",
+    "version": "3.7.3",
+    "repository": "thrucker/immutable-js",
+    "scripts": ["dist/immutable.js"],
+    "main": "dist/immutable.js"
+}
